@@ -388,7 +388,7 @@ section .title::after{
 /* TODO : teams section styling */
 
 .teams .title::after{
-    content: "--- what i have done so far ---";
+    content: "what i have done so far";
 }
 .teams .carousel .card{
     background: #222;
